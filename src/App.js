@@ -15,6 +15,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+<<<<<<< HEAD
+=======
+          updated by Abdullah Saqib 
+>>>>>>> parent of bc526b6... added line break
         </p>
         <a
           className="App-link"
